@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/Gtompa/first-app/pkg/config"
-	"github.com/Gtompa/first-app/pkg/models"
-	"github.com/Gtompa/first-app/pkg/render"
+	"github.com/Gtompa/bookings/pkg/config"
+	"github.com/Gtompa/bookings/pkg/models"
+	"github.com/Gtompa/bookings/pkg/render"
 )
 
 // Repo the repository used by the handlers

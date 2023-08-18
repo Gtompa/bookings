@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/Gtompa/first-app/pkg/config"
-	"github.com/Gtompa/first-app/pkg/handlers"
+	"github.com/Gtompa/bookings/pkg/config"
+	"github.com/Gtompa/bookings/pkg/handlers"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
 )

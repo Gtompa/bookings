@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/Gtompa/first-app/pkg/config"
-	"github.com/Gtompa/first-app/pkg/models"
+	"github.com/Gtompa/bookings/pkg/config"
+	"github.com/Gtompa/bookings/pkg/models"
 )
 
 var functions = template.FuncMap{}

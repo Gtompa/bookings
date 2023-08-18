@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Gtompa/first-app/pkg/config"
-	"github.com/Gtompa/first-app/pkg/handlers"
-	"github.com/Gtompa/first-app/pkg/render"
+	"github.com/Gtompa/bookings/pkg/config"
+	"github.com/Gtompa/bookings/pkg/handlers"
+	"github.com/Gtompa/bookings/pkg/render"
 	"github.com/alexedwards/scs/v2"
 )
 

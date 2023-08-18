@@ -1,4 +1,4 @@
-module github.com/Gtompa/bookings
+module github.com/Gtompa/first-app
 
 go 1.20
 

@@ -6,9 +6,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Gtompa/bookings//config"
-	"github.com/Gtompa/bookings//models"
-	"github.com/Gtompa/bookings//render"
+	"github.com/Gtompa/bookings/internal/config"
+	"github.com/Gtompa/bookings/internal/models"
+	"github.com/Gtompa/bookings/internal/render"
 )
 
 // Repo the repository used by the handlers
